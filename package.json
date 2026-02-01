@@ -1,0 +1,15 @@
+{
+  "$schema": "https://raw.githubusercontent.com/sinelaw/fresh/main/crates/fresh-editor/plugins/schemas/package.schema.json",
+  "name": "insomnie",
+  "version": "0.1.0",
+  "description": "rest client using json",
+  "type": "plugin",
+  "author": "marco a. gallegos",
+  "license": "MIT",
+  "fresh": {
+    "main": "plugin.ts"
+  },
+  "scripts": {
+    "install:local": " rm -rf ~/.config/fresh/plugins/packages/insomnie/ && mkdir -p ~/.config/fresh/plugins/packages/insomnie/"
+  }
+}

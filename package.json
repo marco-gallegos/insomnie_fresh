@@ -7,7 +7,8 @@
   "author": "marco a. gallegos",
   "license": "MIT",
   "fresh": {
-    "main": "plugin.ts"
+    "main": "plugin.ts",
+    "entry": "plugin.ts"
   },
   "scripts": {
     "install:local": " rm -rf ~/.config/fresh/plugins/packages/insomnie/ && mkdir -p ~/.config/fresh/plugins/packages/insomnie/"

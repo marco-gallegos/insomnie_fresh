@@ -11,7 +11,7 @@ Install via Fresh's package manager:
 
 Or install from this repository:
 ```
-:pkg install https://github.com/YOUR_USERNAME/insomnie
+:pkg install https://github.com/marco-gallegos/insomnie_fresh
 ```
 
 ## Usage

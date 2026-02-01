@@ -1,4 +1,4 @@
-// <reference path="./lib/fresh.d.ts" />
+/// <reference path="./lib/fresh.d.ts" />
 // Fresh Plugin
 // Documentation: https://github.com/user/fresh/blob/main/docs/plugins.md
 const editor = getEditor();
